@@ -3,7 +3,7 @@
 Automação de testes para o Ecommerce utilizando Cypress e JavaScript.
 
 -Utilização de Custom Commands para maior flexibilidade e manutenção do código ✅  
-Geração de relatórios ricos com gráficos e imagens utilizando a biblioteca do Mochawesome ✅
+-Geração de relatórios ricos com gráficos e imagens utilizando a biblioteca do Mochawesome ✅
 -Adoção de padrões consistentes de nomenclatura para commits ✅  
 -Implementação da biblioteca Faker para geração de massas de dados dinâmicas ⌛️  
 -Utilização de variáveis de ambiente (env secrets) para proteger credenciais sensíveis, garantindo a segurança do código ⌛️
