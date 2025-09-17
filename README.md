@@ -7,11 +7,11 @@ O projeto foi organizado usando estruturas Describe com cenários de sucesso e e
 Foram construídos 8 casos de testes, sendo eles divididos nas 4 funcionalidades do sistema.
 
 Utilização de Custom Commands para maior flexibilidade e manutenção do código. ✅  
-Geração de relatórios ricos com gráficos e imagens utilizando a biblioteca do Mochawesome. ✅
+Geração de relatórios ricos com gráficos e imagens utilizando a biblioteca do Mochawesome. ✅  
 Adoção de padrões consistentes de nomenclatura para commits. ✅  
-Implementação da biblioteca Faker para geração de massas de dados dinâmicas. ⌛️  
-Utilização de variáveis de ambiente (env secrets) para proteger credenciais sensíveis, garantindo a segurança do código. ⌛️
-Configurada uma pipeline (GitHub Actions) de integração contínua CI/CD que executa automaticamente todos os testes do projeto quando é realizado um push na branch main ou quando um pull request é aberto. ⌛️ 
+Implementação da biblioteca Faker para geração de massas de dados dinâmicas. ⌛️    
+Utilização de variáveis de ambiente (env secrets) para proteger credenciais sensíveis, garantindo a segurança do código. ⌛️  
+Configurada uma pipeline (GitHub Actions) de integração contínua CI/CD que executa automaticamente todos os testes do projeto quando é realizado um push na branch main ou quando um pull request é aberto. ⌛️   
 
 ## 💻 Pré-requisitos
 
