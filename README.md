@@ -2,18 +2,16 @@
 
 Automação de testes para o Ecommerce utilizando Cypress e JavaScript.
 
--Utilização de Custom Commands para maior flexibilidade e manutenção do código ✅  
--Geração de relatórios ricos com gráficos e imagens utilizando a biblioteca do Mochawesome ✅
--Adoção de padrões consistentes de nomenclatura para commits ✅  
--Implementação da biblioteca Faker para geração de massas de dados dinâmicas ⌛️  
--Utilização de variáveis de ambiente (env secrets) para proteger credenciais sensíveis, garantindo a segurança do código ⌛️
--configurada uma pipeline (GitHub Actions) de integração contínua CI/CD 
-que executa automaticamente todos os testes do projeto quando é realizado um push na branch main ou quando um pull request é aberto ⌛️ 
-
-
 O projeto foi organizado usando estruturas Describe com cenários de sucesso e erro validando os principais fluxos do Ecommerce: Cadastro de usuário, Login, Adicionar produto ao carrinho e Finalização de compra.
 
 Foram construídos 8 casos de testes, sendo eles divididos nas 4 funcionalidades do sistema.
+
+- Utilização de Custom Commands para maior flexibilidade e manutenção do código ✅  
+- Geração de relatórios ricos com gráficos e imagens utilizando a biblioteca do Mochawesome ✅
+- Adoção de padrões consistentes de nomenclatura para commits ✅  
+- Implementação da biblioteca Faker para geração de massas de dados dinâmicas ⌛️  
+- Utilização de variáveis de ambiente (env secrets) para proteger credenciais sensíveis, garantindo a segurança do código ⌛️
+- configurada uma pipeline (GitHub Actions) de integração contínua CI/CD que executa automaticamente todos os testes do projeto quando é realizado um push na branch main ou quando um pull request é aberto ⌛️ 
 
 ## 💻 Pré-requisitos
 
@@ -30,6 +28,8 @@ Foram construídos 8 casos de testes, sendo eles divididos nas 4 funcionalidades
 Instalação da IDE Visual Studio Code
 
 - Entrar na página oficial e seguir os passos de instalação padrão: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Instalação do NodeJS
 
 - Acessar o link [https://nodejs.org/](https://nodejs.org/), baixar e instalar o NodeJS versão 18 ou superior;
 - Ao baixar o NodeJS, o gerenciador de pacotes NPM virá junto. 
